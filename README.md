@@ -77,7 +77,8 @@ Unordered List
 
 Example Code
 
-Code `from math import pi 
+`
+from math import pi 
 class Shape: 
      
     def __init__(self, name): 
@@ -90,7 +91,7 @@ class Shape:
         return "I am a two-dimensional shape." 
      
     def __str__(self): 
-        return self.name 
+        return self.name
     
      
  
@@ -107,6 +108,6 @@ shape_circle = Circle(7)
  
 print(shape_circle) 
 print(shape_circle.area()) 
-print(shape_circle.fact())`
-
+print(shape_circle.fact())
+` 
 Link [title](https://www.example.com)
